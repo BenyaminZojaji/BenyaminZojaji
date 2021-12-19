@@ -8,11 +8,7 @@
    I'm hardly trying to reach specialization in image processing and ML and that's why Python has been my partner for the last 1 year! 
 </p>
 <br/>
-<h2 align="center">Languages and Tools:</h2>
-<br/>
 
-   <br/>
-   <br/>
 
 <div align="center">&nbsp;
    <a href="#">
