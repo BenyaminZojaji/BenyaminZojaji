@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">&nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benyaminzojaji)](https://github.com/anuraghazra/github-readme-stats" alt="benyaminzojaji"/>
+   
 </div>
 
 <br/>
