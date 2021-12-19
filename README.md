@@ -12,24 +12,17 @@
 
 <div align="center">&nbsp;
    <a href="#">
-   <img
-        width="40%"
-        src="https://github-readme-stats.vercel.app/api?username=benyaminzojaji&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=benyaminzojaji&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
    </a>
    <a href="#">
-   <img
-        width="40%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=benyaminzojaji&theme=tokyonight"
-    />
-    </a>
+   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=benyaminzojaji&theme=tokyonight"/>
+   </a>
 </div>
 
 <div align="center">&nbsp;
-   <img
-        width="40%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminzojaji&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
-    />
+   <a href="#">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminzojaji&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"/>
+   </a>
 </div>
 
 
