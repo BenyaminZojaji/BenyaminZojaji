@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">&nbsp;
-   <img align="center" src="https://stats.BenyaminZojaji.com/api?username=BenyaminZojaji&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="benyaminzojaji"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benyaminzojaji)](https://github.com/anuraghazra/github-readme-stats" alt="benyaminzojaji"/>
 </div>
 
 <br/>
