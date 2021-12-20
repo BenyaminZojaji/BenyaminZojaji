@@ -2,7 +2,7 @@
 <br/>
 <h2 align="center">My history</h2>
 <p align="center">
-   I started my programmer life with C (because we learn C and C++ in university), then matlab and java, Python and I'm looking forward to learn TypeScript. 🪐
+   I started my programmer life with C (because we learn C and C++ in university), then matlab, a little bit java and finally Python and I'm looking forward to learn TypeScript. 🪐
 </p>
 <p align="center">
    I'm hardly trying to reach specialization in image processing and ML and that's why Python has been my partner for the last 1 year! 
