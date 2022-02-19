@@ -13,7 +13,8 @@
 
 ## 🔨 Languages and Tools:
 <p align="center"> 
-   <a href="https://opencv.org/" target="_blank"><img alt="opencv" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-  OpenCV_Logo_with_text_svg_version.svg.png"></a>
+   <a href="https://opencv.org/" target="_blank"><img alt="opencv" width="45" height="45" src="https://img.icons8.com/fluency/96/000000/opencv.png"></a>
+   <a href="https://www.tensorflow.org/" target="_blank"><img alt="tensorflow" width="45" height="45" src="https://img.icons8.com/color/96/000000/tensorflow.png"></a>
    <a href="https://www.python.org" target="_blank"><img alt="python" width="45" src="https://img.icons8.com/color/48/000000/python.png"/></a>
    <a href="https://git-scm.com/" target="_blank"> <img alt="git" width="45" src="https://img.icons8.com/color/48/000000/git.png"/></a> 
    <a href="http://www.cplusplus.org/" target="_blank"><img alt="c" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></a>
@@ -21,7 +22,9 @@
    <a href="https://github.com/" target="_blank"><img alt="github" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></a>
    <a href="https://html.com/" target="_blank"><img alt="html" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
    <a href="https://html.com/" target="_blank"><img alt="css" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+   <a href="https://www.kali.org/" target="_blank"><img alt="Kali" width="45" src="https://img.icons8.com/color/96/000000/kali-linux.png"></a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="40"/></a>
+   
    
 </p>
 
