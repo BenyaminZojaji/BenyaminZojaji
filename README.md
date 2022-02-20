@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-## 🔨 Languages and Tools:
+## 🔨 Languages and Tools
 <p align="center"> 
    <a href="https://www.qt.io/" target="_blank"><img alt="pyqt" width="45" height="45" src="https://img.icons8.com/ios/100/000000/qt.png"></a>
    <a href="https://opencv.org/" target="_blank"><img alt="opencv" width="45" height="45" src="https://img.icons8.com/fluency/96/000000/opencv.png"></a>
@@ -48,7 +48,7 @@
 ## 🏆 Github Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenyaminZojaji" alt="BenyaminZojaji" /></a> </p>
 
-## 💬 Connect with me:
+## 💬 Connect with me
 <p align="left">
 <a href="https://twitter.com/mrbnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrbnii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/benyaminzojaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benyaminzojaji/" height="30" width="40" /></a>
