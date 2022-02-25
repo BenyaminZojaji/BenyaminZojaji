@@ -37,13 +37,14 @@
    <a href="#">
    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=benyaminzojaji&theme=tokyonight"/>
    </a>
-</div>
-
-<div align="center">&nbsp;
+   <a href="#">
+   <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenyaminZojaji&theme=github_dark" alt="BenyaminZojaji"/>
+   </a>
    <a href="#">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminzojaji&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"/>
    </a>
 </div>
+
 
 ## 🏆 Github Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenyaminZojaji" alt="BenyaminZojaji" /></a> </p>
