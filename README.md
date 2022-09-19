@@ -4,7 +4,7 @@
 <!-- <h2 align="center">My history</h2> -->
 ## 🙋‍♂️ About Me
 <p align="center">
-   I started my programmer life with C in university! ✨ 
+   
   
 </p>
 <p align="center">
