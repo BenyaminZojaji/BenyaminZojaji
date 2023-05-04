@@ -8,7 +8,7 @@
   
 </p>
 <p align="center">
-   I'm hardly trying to improve my knowledge in everything related to Machine Learning and Deep Learning.
+   I would be happy if you check my repositories and give me a star if you like it.
 </p>
 <br/>
 
