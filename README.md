@@ -61,13 +61,13 @@
 <br/>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=BenyaminZojaji"></a>
-<a href="https://github.com/BenyaminZojaji?tab=followers"><img src="https://img.shields.io/github/followers/BenyaminZojaji?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <br/>
 <div align="center">
    <strong>
    <font size="+2" style="font">
-   Benyamin Zojaji © 2022
+   Benyamin Zojaji © 2023
    </font>
    </strong>
 </div>
