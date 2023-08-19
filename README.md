@@ -11,7 +11,7 @@
     I would be happy if you check my repositories and give me a star if you like it.
 </p>
 <br/>
-
+ 
 ## 🔨 Languages and Tools
 <p align="center"> 
    <a href="https://www.qt.io/" target="_blank"><img alt="pyqt" width="45" height="45" src="https://img.icons8.com/ios/100/000000/qt.png"></a>
