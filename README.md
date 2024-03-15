@@ -8,7 +8,7 @@
  
 </p>
 <p align="center">
-    I would be happy if you check my repositories and give me a star if you like it.
+    I would be happy if you check my repositories and give me a star if you like it. 🤩🌟
 </p>
 <br/>
  
@@ -32,35 +32,14 @@
    
 </p>
 
-## 📊 My Github Stats
-<div align="center">&nbsp;
-   <a href="#">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=benyaminzojaji&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
-   </a>
-   <a href="#">
-   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=benyaminzojaji&theme=tokyonight"/>
-   </a>
-   <a href="#">
-   <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenyaminZojaji&theme=github_dark" alt="BenyaminZojaji"/>
-   </a>
-   <a href="#">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminzojaji&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"/>
-   </a>
-</div>
-
 
 ## 🏆 Github Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BenyaminZojaji" alt="BenyaminZojaji" /></a> </p>
 
 ## 💬 Connect with me
 <p align="left">
-<a href="https://twitter.com/mrbnii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrbnii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/benyaminzojaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benyaminzojaji/" height="30" width="40" /></a>
-<a href="https://instagram.com/bniws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bniws" height="30" width="40" /></a>
 </p>
-<br/>
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=BenyaminZojaji"></a>
 
 
 <br/>
