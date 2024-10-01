@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Benyamin Zojaji</h1>
+<h1 align="center">Hi, I'm Benyamin Zojaji</h1>
 <br/>
 
 <p align="center">
-    I would be happy if you check my repositories and give me a star if you like it. 🤩🌟
+    I would be happy if you check my repositories and give me a star if you like it. 🌟
 </p>
 <br/>
  
