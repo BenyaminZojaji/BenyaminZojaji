@@ -10,11 +10,11 @@
 <p align="center">
   <a href="https://github.com/BenyaminZojaji">
       <img src="https://skillicons.dev/icons?i=git,docker,aws,heroku,cloudflare,githubactions,github,gitlab,kali,nginx,postman,graphql,vim" /><br/>
-      <img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytorch,qt,sklearn,selenium,tensorflow,opencv" /><br/> 
-      <img src="https://skillicons.dev/icons?i=c,cpp,matlab,py" /><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" /><br/>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br/>
-      <img src="https://skillicons.dev/icons?i=css,html,bootstrap" /><br/>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,flask,pytorch,qt,sklearn,selenium,tensorflow,opencv,c,cpp,matlab,py" /><br/> 
+<!--       <img src="https://skillicons.dev/icons?i=" /><br/> -->
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,arduino,raspberrypi,css,html,bootstrap" /><br/>
+<!--       <img src="https://skillicons.dev/icons?i=" /><br/>
+      <img src="https://skillicons.dev/icons?i=" /><br/> -->
   </a>
 </p>
 
